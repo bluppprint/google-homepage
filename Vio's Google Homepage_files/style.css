@@ -1,0 +1,47 @@
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        
+      }
+
+li {
+   display:inline;
+   float:left; 
+   padding: 5px;
+}
+
+.logoposition {
+  
+  position:relative;
+
+}
+
+.logo {
+
+  
+    
+    height: 150px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    margin: -25px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+} 
+
+.searchbar {
+
+ 
+
+  
+    
+    height: 150px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    margin: -25px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+
+}

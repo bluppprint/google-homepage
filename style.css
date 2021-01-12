@@ -1,3 +1,236 @@
-ul {
-;
+
+/*Header*/
+
+
+
+
+.signin {
+
+  background-color:#4285f4;
+  border-style:hidden;
+  font-family: arial,sans-serif;
+  font-weight: bold;
+  border-radius: 4px;
+  height:25px;
+  color:white;
 }
+
+
+.googleapps {
+
+  width : 20px;
+}
+
+
+.navbarleft {
+
+  float:left;
+
+  
+
+ 
+}
+
+
+.navbarright{
+
+
+  float:right;
+
+  
+}
+
+
+
+
+    ul {
+      
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        
+
+        
+      }
+
+li {
+   display:inline;
+   float:left; 
+   padding: 5px;
+   font-family: arial,sans-serif;
+   font-size:px;
+
+
+}
+
+
+/*mainpage logo button searchbar*/
+
+
+.grid-container {
+
+  display: grid;
+  
+  
+  grid-template-rows:auto auto auto ;
+  
+
+
+}
+
+
+
+
+
+.google {
+  
+ 
+  margin-top:250px;
+  justify-self:center;
+  
+  
+  
+}
+
+
+#search {
+
+  
+  
+  width:600px;
+  border-radius:20px;
+  border-width: 1px;
+  border-style: solid;
+  justify-self: center;
+  margin-top:10px;
+  height:28px;
+  
+  
+  
+  
+}
+
+
+
+.buttons{
+
+ justify-self:center;
+ margin-top: 10px;
+ 
+
+}
+
+
+.searchbutton {
+
+  
+  font-family: arial,sans-serif;
+  border-radius: 12px;
+  width:150px;
+  background-color:white;
+  border-style:solid;
+  border-width:0.5px;
+  height:30px;
+
+
+}
+
+.luckybutton{
+
+
+  font-family: arial,sans-serif;
+  border-radius: 12px;
+  width:150px;
+  background-color: white;
+  border-style:solid;
+  border-width:0.5px;
+  height:30px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/*Bottom*/
+
+
+
+.footer{
+
+  display:grid;
+  grid-template-rows:auto auto auto;
+  position:fixed;
+  bottom:0px;
+  background-color: #f2f2f2;
+  width: 100%;
+  font-family: arial,sans-serif;
+  margin:200px 0px 0px -5px;
+  padding-bottom: 50px;
+  
+  
+  
+}
+
+
+.footerleft {
+
+justify-self: start;
+grid-row:5/6;
+padding: 
+
+}
+
+
+
+
+
+.footerright {
+
+  justify-self:end;
+  grid-row:5/6;
+  
+
+
+}
+  
+
+
+
+.sustain2007 {
+  
+
+
+
+justify-self: center;
+grid-row:5/6;
+margin-left:-305px;
+
+
+
+}
+
+
+
+
+ 
+  
+  
+  
+
+  
+
+
+
+
+
+
+
+
