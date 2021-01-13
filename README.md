@@ -16,3 +16,7 @@ And I am almost there. Googled a lot , tried both flex and grid for styling my p
 Personally found it way much easier to move elemeent around and style the page altogheter.
 my code still looks rough but doing this project and actually learning something was amazing, also was a nice refresher on HTML and CSS, because I took quite the break from this project, and it was nice to get all that infromation back.
 This will be my second commit for this project on GITHUB.
+
+Update: 13/01/2021
+
+Managed to add hover functions to the buttons and added the magnifying glass logo on the search bar.Learn how to add a background image to an element with CSS.
